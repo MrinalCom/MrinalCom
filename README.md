@@ -1,7 +1,7 @@
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2020/03/animation-software-header.gif)](https://github.com/MrinalCom)
 <h1 align="center">Hi 👋, I'm Mrinal Anand</h1>
 <h3 align="center">Passionate and eager to learn new</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrinalcom&label=Profile%20views&color=0e75b6&style=flat" alt="mrinalcom" /> </p>
 
