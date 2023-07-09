@@ -35,6 +35,8 @@
 <a href="https://www.leetcode.com/mrinalanand9155674769" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mrinalanand9155674769" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/<mrinalanand>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<mrinalanand>" height="30" width="40" /></a>
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrinalcom" alt="mrinalcom" /></a> </p>
 
