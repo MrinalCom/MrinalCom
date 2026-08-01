@@ -1,54 +1,126 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://github.com/MrinalCom)
 <h1 align="center">Hi 👋, I'm Mrinal Anand</h1>
-<h3 align="center">Passionate and eager to learn new</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=AI+Product+Engineer;Full-Stack+Developer+%7C+React+%C2%B7+Node+%C2%B7+Python;I+ship+production+LLM+features+end+to+end&font=Fira%20Code&center=true&width=520&height=45&color=0e75b6&vCenter=true&size=22" alt="Typing SVG" />
+  </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrinalcom&label=Profile%20views&color=0e75b6&style=flat" alt="mrinalcom" /> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/mrinalanand2001"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://medium.com/@mrinalanand"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="mailto:mrinalanandiem@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=mrinalcom&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="views"/>
+</p>
 
+---
 
+### 🚀 About Me
 
-- 🏫 I’m junior at [Computer Science and Engineering in](IEM,Kolkata)
+- 🤖 **AI Product Engineer** — I build and ship production **LLM features end to end** using the Claude API, LangChain, LangGraph, and AI agents.
+- 🔭 Currently a **Software Engineer at AMI**, building an in-house enterprise chatbot and predictive server-monitoring models.
+- ⚡ **Founding-engineer background** — led full-stack development of a React Native / Node.js app to **1,000+ early adopters** as the first engineer.
+- 🛠️ Comfortable across the whole stack: **React / React Native, Node.js, Python, PostgreSQL, Redis, AWS, Docker, CI/CD**.
+- 🧠 Strong fundamentals — **1,000+ DSA problems solved** and an active competitive-programming habit.
+- 📝 I write about engineering on [Medium](https://medium.com/@mrinalanand).
 
-- ✍️ I’m exploring **React as well as Various Databases**
+---
 
-- 🧑‍💻 I am a [Full-Stack Software Developer in](MERN stack.)
+### 🧩 Featured Project
 
-- 🧑‍🎓 I’m currently learning [Computer Science and](Software Engineering.)
+**[RestroHub](https://github.com/MrinalCom) — Restaurant Management & AI Ordering Platform**
+`Next.js` · `Node.js/TypeScript` · `PostgreSQL` · `Redis` · `Socket.io` · `Claude API` · `Docker`
 
-- 👨‍💻 All of my projects are available at [https://github.com/MrinalCom](https://github.com/MrinalCom)
+- Real-time order flow: customer ordering, a live kitchen queue over **Socket.io**, and an owner dashboard for menu, pricing, and inventory — orchestrated with **Docker Compose**.
+- A **mood-based dish recommender**: LLM structured extraction into a 5-dimension taste vector, cosine-similarity matching, and hybrid ranking on popularity + stock signals.
+- Cached the LLM extraction layer in **Redis** to cut cost and latency, and logged recommendation-to-conversion data to train a future learned ranker.
 
-- 📝 I regularly write articles on [https://medium.com/@mrinalanand](https://medium.com/@mrinalanand)
+> 📌 *Replace the link above with the direct RestroHub repo URL, and pin it (and your other best repos) on your profile.*
 
-- 📫 You can reach me at **mrinalanand9155674769@gmail.com**
+---
 
-- 📄 Know about my experiences by visiting [https://mrinalanand.000webhostapp.com/](https://mrinalanand.000webhostapp.com/)
+### 💼 Experience Highlights
 
-<h3 align="left">Connect with me:</h3>
+- **AMI** — *Software Engineer* · Launched an enterprise AI chatbot adopted by 25 support reps in its first month; building predictive models that flag server bottlenecks before they hit latency.
+- **Neurolaw AI** — *AI Intern* · Shipped production AI features across three products (legal chatbot, document translation, True Copy) and automated a large-scale data pipeline with Python + Selenium, cutting manual effort by **90%**.
+- **Strength** — *Founding Engineer* · Built the React Native / Node.js app from scratch to **1,000+ users**; cut query latency **30%** with Redis caching and automated the Docker CI/CD pipeline.
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+**AI / LLM**
+
+![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langgraph&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-6E56CF?style=flat&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
+
+**Data & Cloud**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+### 🏆 Achievements & Certifications
+
+- 🥉 **3rd Place, Hackfest 2023 (IIT Dhanbad)** — top 3 of 50+ teams in the ABIT track.
+- 📈 **Top 2.5%, TATA Imagination Challenge** — ranked 6,415 of 263,654 nationally.
+- 💻 **1,000+ DSA problems** solved · 500-day GeeksforGeeks streak.
+- 📜 **AWS Cloud Practitioner** · **Google Cloud Associate** · **IBM DevOps** · **HackerRank REST API**.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mrinalcom&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrinalcom&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrinalcom&theme=tokyonight&hide_border=true" alt="streak" />
+</p>
+
+---
+
+### 🔗 Competitive Programming
+
 <p align="left">
-<a href="https://twitter.com/mrinala83172070" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrinala83172070" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mrinalanand2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrinalanand2001" height="30" width="40" /></a>
-<a href="https://instagram.com/mr.i.n.a.l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.i.n.a.l" height="30" width="40" /></a>
-<a href="https://medium.com/@mrinalanand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mrinalanand" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/mrinal_01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mrinal_01" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mrinalanand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mrinalanand" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mrinalanand9155674769" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mrinalanand9155674769" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/<mrinalanand>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<mrinalanand>" height="30" width="40" /></a>
-
-
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrinalcom" alt="mrinalcom" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/mrinala83172070" target="blank"><img src="https://img.shields.io/twitter/follow/mrinala83172070?logo=twitter&style=for-the-badge" alt="mrinala83172070" /></a> </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-[![Readme Quotes ](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrinalcom&show_icons=true&locale=en&layout=compact" alt="mrinalcom" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrinalcom&show_icons=true&locale=en" alt="mrinalcom" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrinalcom&" alt="mrinalcom" /></p>
+  <a href="https://leetcode.com/mrinalanand9155674769"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://codeforces.com/profile/mrinalanand"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
+  <a href="https://www.codechef.com/users/mrinal_01"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" alt="CodeChef"/></a>
+</p>
