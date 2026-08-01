@@ -28,14 +28,12 @@
 
 ### 🧩 Featured Project
 
-**[RestroHub](https://github.com/MrinalCom) — Restaurant Management & AI Ordering Platform**
+**[RestroHub](https://github.com/MrinalCom/RestroHub) — Restaurant Management & AI Ordering Platform**
 `Next.js` · `Node.js/TypeScript` · `PostgreSQL` · `Redis` · `Socket.io` · `Claude API` · `Docker`
 
 - Real-time order flow: customer ordering, a live kitchen queue over **Socket.io**, and an owner dashboard for menu, pricing, and inventory — orchestrated with **Docker Compose**.
 - A **mood-based dish recommender**: LLM structured extraction into a 5-dimension taste vector, cosine-similarity matching, and hybrid ranking on popularity + stock signals.
 - Cached the LLM extraction layer in **Redis** to cut cost and latency, and logged recommendation-to-conversion data to train a future learned ranker.
-
-> 📌 *Replace the link above with the direct RestroHub repo URL, and pin it (and your other best repos) on your profile.*
 
 ---
 
