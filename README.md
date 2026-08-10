@@ -28,6 +28,13 @@
 
 ### 🧩 Featured Projects
 
+**[HIS](https://github.com/MrinalCom/HIS) — Full-Stack + AI Hospital Information System**
+`Next.js` · `Node.js/TypeScript` · `PostgreSQL` · `Redis` · `Socket.io` · `Claude API` · `LangGraph` · `FastAPI/scikit-learn` · `Docker`
+
+- End-to-end hospital platform across 9 modules — scheduling, EHR, pharmacy, lab, billing, HR, bed/ward management, ambulance dispatch, and 1:1 WebRTC telemedicine — as 8 role-scoped dashboards (patient, doctor, nurse, pharmacist, lab tech, receptionist, billing clerk, admin).
+- **Four AI features**, each with a deterministic fallback so the frontend never has two code paths: an AI triage chatbot with a keyword red-flag safety net that overrides the model, a LangGraph booking concierge, AI-drafted SOAP notes that are never auto-signed, and a real scikit-learn no-show classifier served by a FastAPI microservice.
+- Models a HIPAA-conscious security posture: capability-based RBAC, live-checked MFA enrollment gating sensitive writes, append-only audit logging enforced at the Postgres privilege level (WORM), and encrypted-at-rest staff bank details.
+
 **[RestroHub](https://github.com/MrinalCom/RestroHub) — Restaurant Management & AI Ordering Platform**
 `Next.js` · `Node.js/TypeScript` · `PostgreSQL` · `Redis` · `Socket.io` · `Claude API` · `Docker`
 
