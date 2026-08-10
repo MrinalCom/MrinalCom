@@ -42,6 +42,13 @@
 - Postgres/SQLite checkpointing with full **time-travel replay** from any past checkpoint, streamed live to the frontend over Server-Sent Events.
 - React frontend visualizing the live graph topology, per-node agent activity, and the approval flow in real time.
 
+**[QR File Transfer](https://github.com/MrinalCom/QR-FileTransfer) — Peer-to-Peer File Sharing over WebRTC**
+`TypeScript` · `Vite` · `WebRTC` · `Node.js` · `WebSocket`
+
+- Device-to-device file transfer with no account or app install: the sender gets an invite QR, the receiver scans it and shows a pairing QR back, and the sender confirms it in-app — a lightweight, login-free proof that a human controls both screens.
+- File bytes flow **directly over a WebRTC data channel**; the Node/`ws` signaling server only relays connection setup messages and never touches the file itself.
+- In-memory, single-use sessions with automatic TTL expiry — no database, minimal server-side state to secure or clean up.
+
 ---
 
 ### 💼 Experience Highlights
