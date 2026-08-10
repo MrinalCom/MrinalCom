@@ -26,7 +26,7 @@
 
 ---
 
-### 🧩 Featured Project
+### 🧩 Featured Projects
 
 **[RestroHub](https://github.com/MrinalCom/RestroHub) — Restaurant Management & AI Ordering Platform**
 `Next.js` · `Node.js/TypeScript` · `PostgreSQL` · `Redis` · `Socket.io` · `Claude API` · `Docker`
@@ -34,6 +34,13 @@
 - Real-time order flow: customer ordering, a live kitchen queue over **Socket.io**, and an owner dashboard for menu, pricing, and inventory — orchestrated with **Docker Compose**.
 - A **mood-based dish recommender**: LLM structured extraction into a 5-dimension taste vector, cosine-similarity matching, and hybrid ranking on popularity + stock signals.
 - Cached the LLM extraction layer in **Redis** to cut cost and latency, and logged recommendation-to-conversion data to train a future learned ranker.
+
+**[Research Crew](https://github.com/MrinalCom/research-crew) — Multi-Agent LangGraph Research/Coding Crew**
+`LangGraph` · `FastAPI` · `React` · `PostgreSQL` · `Claude API` · `Docker`
+
+- Supervisor-led agent crew (planner → researcher + analyst running **concurrently** → coder → reviewer) with a **provably-bounded self-correction loop** and durable **human-in-the-loop approval** built on LangGraph's `interrupt()`.
+- Postgres/SQLite checkpointing with full **time-travel replay** from any past checkpoint, streamed live to the frontend over Server-Sent Events.
+- React frontend visualizing the live graph topology, per-node agent activity, and the approval flow in real time.
 
 ---
 
