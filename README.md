@@ -58,6 +58,22 @@
 
 ---
 
+### 📦 Published Packages
+
+**[langgraph-inspector](https://github.com/MrinalCom/langgraph-inspector) — Live Terminal Debugger for LangGraph.js**
+`TypeScript` · `npm` · [![npm](https://img.shields.io/npm/v/langgraph-inspector?color=cb3837&label=npm)](https://www.npmjs.com/package/langgraph-inspector)
+
+- Wraps a LangGraph.js execution stream to print live per-node timing and state diffs straight to the terminal — no LangSmith account, no network call.
+- Ships an offline ASCII graph renderer (`getGraph()` → terminal diagram) as an alternative to `drawMermaidPng()`, which requires a `mermaid.ink` API call.
+
+**[langgraph-checkpoint-cli](https://github.com/MrinalCom/langgraph-checkpoint-cli) — Terminal CLI for LangGraph Checkpoints**
+`Python` · `Typer` · `PyPI` · [![PyPI](https://img.shields.io/pypi/v/langgraph-checkpoint-cli?color=3775a9&label=pypi)](https://pypi.org/project/langgraph-checkpoint-cli/)
+
+- List threads, walk checkpoint history, and diff state across SQLite/Postgres checkpointers directly from the terminal — no throwaway script required.
+- Built against the real `SqliteSaver`/`PostgresSaver` public API, with test coverage running against actual compiled LangGraph graphs.
+
+---
+
 ### 💼 Experience Highlights
 
 - **AMI** — *Software Engineer* · Launched an enterprise AI chatbot adopted by 25 support reps in its first month; building predictive models that flag server bottlenecks before they hit latency.
