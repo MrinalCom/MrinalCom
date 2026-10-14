@@ -28,6 +28,14 @@
 
 ### 🧩 Featured Projects
 
+**[FirstMind](https://github.com/MrinalCom/FirstMind) — Reinforcement Learning (GRPO) for Generative Engine Optimization (GEO)**
+`PyTorch` · `TRL / GRPO` · `Qwen 2.5` · `PEFT / QLoRA` · `Gymnasium` · `FAISS` · `W&B` · `Hugging Face`
+
+- Built an end-to-end **Generative Engine Optimization (GEO)** RL framework that trains open-source LLMs to maximize brand citation and recommendation ranking in AI search engines (Perplexity, ChatGPT Search, Claude).
+- Modeled the search ecosystem as a custom **Gymnasium MDP environment** with FAISS semantic retrieval and a multi-objective **Verifiable Reward Engine (RLVR)** scoring rank position, citation presence, schema structure, and anti-spam penalties.
+- Trained a **Qwen2.5-1.5B** policy using **Group Relative Policy Optimization (GRPO)** with $G=4$ parallel rollout candidates per prompt, achieving an **86.7% Answer Presence Rate** (up from 18.0%), an **80.0% Win Rate** (Rank #1 in 12/15 categories), and **5x Share of Model** over legacy incumbents on holdout queries.
+- Open-sourced policy weights and adapters on [Hugging Face](https://huggingface.co/MrinalCom/firstmind-geo-policy-qwen2.5-1.5b) with verifiable [W&B run telemetry](https://wandb.ai/mrinalcodes-institute-of-engineering-management/geo-grpo-training/runs/k2s8kqb2).
+
 **[HIS](https://github.com/MrinalCom/HIS) — Full-Stack + AI Hospital Information System**
 `Next.js` · `Node.js/TypeScript` · `PostgreSQL` · `Redis` · `Socket.io` · `Claude API` · `LangGraph` · `FastAPI/scikit-learn` · `Docker`
 
@@ -93,8 +101,10 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-**AI / LLM**
+**AI / LLM & RL**
 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat&logo=anthropic&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langgraph&logoColor=white)
